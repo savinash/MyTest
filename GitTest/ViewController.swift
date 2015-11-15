@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         println("This is git test...")
+        
+        var stringName = "Avinash"
+        println("stringName = " + stringName + "asdf")
     }
 
     override func didReceiveMemoryWarning() {
